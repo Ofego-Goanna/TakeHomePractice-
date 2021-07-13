@@ -1,24 +1,29 @@
 package com.goanna;
 
-import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
 
 class ClientTest {
 
-    @Test
-    void allPositives() {
-    }
+	@Test
+	void testAllPositives() {
+		fail("Not yet implemented");
+	}
 
-    @Test
-    void allEven() {
-    }
+	@Test
+	void testAllEven() {
+		fail("Not yet implemented");
+	}
 
-    @Test
-    void squared() {
-    }
+	@Test
+	void testSquared() {
+		fail("Not yet implemented");
+	}
 
-    @Test
-    void removeNegatives() {
-    }
+	@Test
+	void testRemoveNegatives() {
+		fail("Not yet implemented");
+	}
+
 }
